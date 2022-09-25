@@ -1,0 +1,12 @@
+# Local terraform drectory
+.terraform/*
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# tf variables files, my include sensitive data
+.*tfvars
+
+
+
