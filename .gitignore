@@ -8,5 +8,6 @@
 # tf variables files, my include sensitive data
 .*tfvars
 
-
+# Crash file
+crash.log
 
